@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Yuanhuan Deng"
+description              : ""
 repository               : "YuanhuanO/acad-homepage.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,10 +24,10 @@ author:
   name             : "Yuanhuan Deng"
   avatar           : "images/android-chrome-512x512.png"
   bio              : ""
-  location         : ""
+  location         : "Boston, MA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : 
   email            : "yuanhuandeng@brandeis.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/YuanhuanO"
+  github           : "YuanhuanO"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yuanhuandeng/"
+  linkedin         : "yuanhuandeng/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://x.com/oliviadeng55918"
+  twitter          : "oliviadeng55918"
   vine             :
   weibo            :
   xing             :
