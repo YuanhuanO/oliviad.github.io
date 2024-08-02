@@ -16,9 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi, I am <strong>Yuanhuan Deng(邓媛洹)</strong>, a second-year Master's student in Computer Science at [Brandeis University](https://www.brandeis.edu/). 
-
-My academic journey began at [Sun Yat-sen University](http://www.sysu.edu.cn/en/)(中山大学), where I earned my bachelor's degree in Public Management.
+Hi, I am <strong>Yuanhuan Deng(邓媛洹)</strong>, a second-year Master's student in Computer Science at [Brandeis University](https://www.brandeis.edu/). I earned my bachelor's degre at [Sun Yat-sen University](http://www.sysu.edu.cn/en/)(中山大学).
 
 My passion lies at the intersection of technology and social sciences. I'm particularly interested in:
 
