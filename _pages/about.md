@@ -70,12 +70,12 @@ I'm always eager to explore new ideas and collaborate on projects that leverage 
 # 💻 Research Experiences
 - *2024.04 - Present*, <strong>Scalable Architecture Lab @William & Mary</strong>
   - Advisor: Prof. Yifan Sun
-  - Topics: Data Visualization for GPU Performance
+  - Topics: [Data Visualization for GPU Performance](https://github.com/sarchlab/akita)
 - *2024.05 - Present*, <strong>Xu Lab @Carnegie Mellon University</strong>
-  - Advisor: Xueying Zhan
+  - Advisor: Dr. Xueying Zhan
   - Topics: Image Analysis for Computational Biology
 - *2023.05 - 2023.8*, 
 <strong>The Heller School for Social Policy and Management @ Brandeis University</strong>
-  - Advisor: Eunjung Jee
+  - Advisor: Dr. Eunjung Jee
   - Topics: Image Analysis for Economics
 
