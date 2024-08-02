@@ -16,9 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi, I am <strong>Yuanhuan Deng(邓媛洹)</strong>, a second-year Master's student in Computer Science at [Brandeis University](https://www.brandeis.edu/). I earned my bachelor's degre at [Sun Yat-sen University](http://www.sysu.edu.cn/en/)(中山大学).
+Hi, I am <strong>Yuanhuan Deng(邓媛洹)</strong>, a second-year Master's student in Computer Science at [Brandeis University](https://www.brandeis.edu/). I earned my bachelor's degre at [Sun Yat-sen University](https://www.sysu.edu.cn/)(中山大学).
 
-My passion lies at the intersection of technology and social sciences. I'm particularly interested in:
+My passion lies at the intersection of computer science and social science. I'm particularly interested in:
 
 ✨Data Visualization
 
