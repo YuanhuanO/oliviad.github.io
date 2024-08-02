@@ -19,7 +19,7 @@ main:
   #   url: "/#-invited-talks"
 
   - title: "Research Experiences"
-    url: "/#-research"
+    url: "/#-research-experiences"
 
   - title: "CV"
     url: "/assets/pdf/CV.pdf"

@@ -58,7 +58,7 @@ I'm always eager to explore new ideas and collaborate on projects that leverage 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
+<span class='anchor' id='-educations'></span>
 # 📖 Educations
 - *2022.08 - Present*, <strong>Brandeis University</strong>
 - *2018.09 - 2022.06*, <strong>Sun Yat-sen University</strong>
@@ -66,7 +66,7 @@ I'm always eager to explore new ideas and collaborate on projects that leverage 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
+<span class='anchor' id='-research-experiences'></span>
 # 💻 Research Experiences
 - *2024.04 - Present*, <strong>Scalable Architecture Lab @William & Mary</strong>
   - Advisor: Prof. Yifan Sun
