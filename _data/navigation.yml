@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/oliviad.github.io/#about-me"
 
   # - title: "News"
   #   url: "/#-news"
@@ -13,13 +13,13 @@ main:
   #   url: "/#-honors-and-awards"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/oliviad.github.io/#-educations"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
 
   - title: "Research Experiences"
-    url: "/#-research-experiences"
+    url: "/oliviad.github.io/#-research-experiences"
 
   - title: "CV"
-    url: "/assets/pdf/CV.pdf"
+    url: "/oliviad.github.io/assets/pdf/CV.pdf"
