@@ -78,4 +78,3 @@ I'm always eager to explore new ideas and collaborate on projects that leverage 
 <strong>The Heller School for Social Policy and Management @ Brandeis University</strong>
   - Advisor: Dr. Eunjung Jee
   - Topics: Image Analysis for Economics
-
