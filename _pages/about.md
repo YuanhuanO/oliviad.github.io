@@ -22,7 +22,7 @@ My passion lies at the intersection of computer science and social science. I'm 
 
 ✨Data Visualization
 
-✨Image Analysis
+✨Computational Social Sciences
 
 ✨Human-Computer Interaction
 
