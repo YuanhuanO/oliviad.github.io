@@ -13,13 +13,16 @@ main:
   #   url: "/#-honors-and-awards"
 
   - title: "Educations"
-    url: "/oliviad.github.io/#-educations"
+    url: "/oliviad.github.io/#educations"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
 
   - title: "Research Experiences"
-    url: "/oliviad.github.io/#-research-experiences"
+    url: "/oliviad.github.io/#research-experiences"
 
   - title: "CV"
     url: "/oliviad.github.io/assets/pdf/CV.pdf"
+
+  - title: "Miscellaneous"
+    url: "/oliviad.github.io/#miscellaneous"
