@@ -20,7 +20,7 @@ Hi, I am <strong>Yuanhuan Deng(邓媛洹)</strong>, a second-year Master's stude
 
 My passion lies in:
 
-✨Scientific Visualization
+✨Data Visualization
 
 ✨Human-Computer Interaction
 
