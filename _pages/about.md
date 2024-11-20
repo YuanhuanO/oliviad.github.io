@@ -75,8 +75,22 @@ I'm always eager to explore new ideas and collaborate on projects. Feel free to 
 - *2024.05 - Present*, <strong>Xu Lab @Carnegie Mellon University</strong>
   - Advisor: Dr. Xueying Zhan
   - Topics: Visualization for Protein Structure
-    <img src="assets/cryoet1.png" alt="Protein Data Visualization" width=500>
-      <img src="assets/cryoet2.png" alt="Protein Data Visualization2" width=500>
+    <div id="image-container">
+      <img id="switchable-image" src="assets/cryoet2.png" alt="Protein Data Visualization" width="500">
+    </div>
+    <button id="toggle-button" style="display: block; margin: 10px auto; padding: 10px 20px;">Next</button>
+
+    <script>
+      const image = document.getElementById('switchable-image');
+      const button = document.getElementById('toggle-button');
+      button.addEventListener('click', () => {
+          if (image.src.includes('cryoet1.png')) {
+              image.src = 'assets/cryoet2.png';
+          } else {
+              image.src = 'assets/cryoet1.png';
+          }
+      });
+    </script>
 - *2023.05 - 2023.8*, 
 <strong>The Heller School for Social Policy and Management @ Brandeis University</strong>
   - Advisor: Dr. Eunjung Jee
