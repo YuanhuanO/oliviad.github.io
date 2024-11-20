@@ -71,33 +71,15 @@ I'm always eager to explore new ideas and collaborate on projects. Feel free to 
 - *2024.04 - Present*, <strong>Scalable Architecture Lab @William & Mary</strong>
   - Advisor: Prof. Yifan Sun
   - Topics: [Visualization for GPU Performance Analysis](https://github.com/sarchlab/akita)
-  <img src="assets/daisen.png" alt="GPU Performance Data Visualization" width=500>
+      <div id="image-container" style="display: flex; align-items: center; justify-content: center; margin: 20px;">
+        <img src="assets/daisen.png" alt="GPU Performance Data Visualization" width=500>
+    </div>
 - *2024.05 - Present*, <strong>Xu Lab @Carnegie Mellon University</strong>
   - Advisor: Dr. Xueying Zhan
   - Topics: Visualization for Protein Structure
     <div id="image-container" style="display: flex; align-items: center; justify-content: center; margin: 20px;">
-      <img id="switchable-image" src="assets/cryoet2.png" alt="Protein Data Visualization" width="500">
-      <div style="display: flex; flex-direction: column; align-items: center; margin-left: 10px;">
-        <button id="prev-button" style="margin: 5px; padding: 5px 10px;">⬅️</button>
-        <button id="next-button" style="margin: 5px; padding: 5px 10px;">➡️</button>
-      </div>
+        <img id="switchable-image" src="assets/cryoet2.png" alt="Protein Data Visualization" width="500">
     </div>
-
-<script>
-  const image = document.getElementById('switchable-image');
-  const images = ['assets/cryoet1.png', 'assets/cryoet2.png']; 
-  let currentIndex = 0;
-
-  document.getElementById('prev-button').addEventListener('click', () => {
-      currentIndex = (currentIndex - 1 + images.length) % images.length;
-      image.src = images[currentIndex];
-  });
-
-  document.getElementById('next-button').addEventListener('click', () => {
-      currentIndex = (currentIndex + 1) % images.length; 
-      image.src = images[currentIndex];
-  });
-</script>
 - *2023.05 - 2023.8*, 
 <strong>The Heller School for Social Policy and Management @ Brandeis University</strong>
   - Advisor: Dr. Eunjung Jee
