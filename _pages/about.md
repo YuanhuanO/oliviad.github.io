@@ -75,22 +75,29 @@ I'm always eager to explore new ideas and collaborate on projects. Feel free to 
 - *2024.05 - Present*, <strong>Xu Lab @Carnegie Mellon University</strong>
   - Advisor: Dr. Xueying Zhan
   - Topics: Visualization for Protein Structure
-    <div id="image-container">
+    <div id="image-container" style="display: flex; align-items: center; justify-content: center; margin: 20px;">
       <img id="switchable-image" src="assets/cryoet2.png" alt="Protein Data Visualization" width="500">
+      <div style="display: flex; flex-direction: column; align-items: center; margin-left: 10px;">
+        <button id="prev-button" style="margin: 5px; padding: 5px 10px;">⬅️</button>
+        <button id="next-button" style="margin: 5px; padding: 5px 10px;">➡️</button>
+      </div>
     </div>
-    <button id="toggle-button" style="display: block; margin: 10px auto; padding: 10px 20px;">Next</button>
 
-    <script>
-      const image = document.getElementById('switchable-image');
-      const button = document.getElementById('toggle-button');
-      button.addEventListener('click', () => {
-          if (image.src.includes('cryoet1.png')) {
-              image.src = 'assets/cryoet2.png';
-          } else {
-              image.src = 'assets/cryoet1.png';
-          }
-      });
-    </script>
+<script>
+  const image = document.getElementById('switchable-image');
+  const images = ['assets/cryoet1.png', 'assets/cryoet2.png']; 
+  let currentIndex = 0;
+
+  document.getElementById('prev-button').addEventListener('click', () => {
+      currentIndex = (currentIndex - 1 + images.length) % images.length;
+      image.src = images[currentIndex];
+  });
+
+  document.getElementById('next-button').addEventListener('click', () => {
+      currentIndex = (currentIndex + 1) % images.length; 
+      image.src = images[currentIndex];
+  });
+</script>
 - *2023.05 - 2023.8*, 
 <strong>The Heller School for Social Policy and Management @ Brandeis University</strong>
   - Advisor: Dr. Eunjung Jee
