@@ -75,7 +75,7 @@ I'm always eager to explore new ideas and collaborate on projects. Feel free to 
         <img src="assets/daisen.png" alt="GPU Performance Data Visualization" width=500>
     </div>
 - *2024.05 - Present*, <strong>Xu Lab @Carnegie Mellon University</strong>
-  - Advisor: Dr. Xueying Zhan
+  - Advisor: Dr. Xueying Zhan and Prof. Min Xu
   - Topics: Visualization for Protein Structure
     <div id="image-container" style="display: flex; align-items: center; justify-content: center; margin: 20px;">
         <img id="switchable-image" src="assets/cryoet2.png" alt="Protein Data Visualization" width="500">
