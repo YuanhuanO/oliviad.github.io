@@ -75,6 +75,8 @@ I'm always eager to explore new ideas and collaborate on projects. Feel free to 
 - *2024.05 - Present*, <strong>Xu Lab @Carnegie Mellon University</strong>
   - Advisor: Dr. Xueying Zhan
   - Topics: Visualization for Protein Structure
+    <img src="assets/cryoet1.png" alt="Protein Data Visualization" width=500>
+      <img src="assets/cryoet2.png" alt="Protein Data Visualization2" width=500>
 - *2023.05 - 2023.8*, 
 <strong>The Heller School for Social Policy and Management @ Brandeis University</strong>
   - Advisor: Dr. Eunjung Jee
