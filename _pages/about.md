@@ -27,7 +27,7 @@ My passion lies in:
 
 <strong class="red-text">I am looking for 2025 Spring/Fall Phd position in related fields! </strong>
 
-<strong> 📥Email me at: [yuanhuandeng@brandeis.edu](yuanhuandeng@brandeis.edu)</strong>
+<strong> 📥Email me at: [oliviadyh@gmail.com](oliviadyh@gmail.com)</strong>
 
 I'm always eager to explore new ideas and collaborate on projects. Feel free to reach out if you'd like to connect or discuss potential collaborations!
 
