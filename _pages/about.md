@@ -18,12 +18,6 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hi, I am <strong>Yuanhuan Deng(邓媛洹)</strong>, a second-year Master's student in Computer Science at [Brandeis University](https://www.brandeis.edu/). I earned my bachelor's degree at [Sun Yat-sen University](https://www.sysu.edu.cn/)(中山大学).
 
-My passion lies in:
-
-✨Data Visualization
-
-✨Human-Computer Interaction
-
 
 <strong class="red-text">I am looking for 2025 Spring/Fall Phd position in related fields! </strong>
 
