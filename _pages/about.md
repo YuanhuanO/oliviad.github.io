@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi, I am <strong>Yuanhuan Deng(邓媛洹)</strong>, a second-year Master's student in Computer Science at [Brandeis University](https://www.brandeis.edu/). I earned my bachelor's degree at [Sun Yat-sen University](https://www.sysu.edu.cn/)(中山大学).
+Hi, I am <strong>Olivia</strong>, a second-year Master's student in Computer Science at [Brandeis University](https://www.brandeis.edu/). I earned my bachelor's degree at [Sun Yat-sen University](https://www.sysu.edu.cn/)(中山大学).
 
 
 <!-- <strong class="red-text">I am looking for 2025 Fall Phd position in related fields </strong> -->
